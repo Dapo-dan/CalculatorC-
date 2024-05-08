@@ -1,0 +1,15 @@
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/bin/Debug/net7.0/CalculatorC#
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/bin/Debug/net7.0/CalculatorC#.deps.json
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/bin/Debug/net7.0/CalculatorC#.runtimeconfig.json
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/bin/Debug/net7.0/CalculatorC#.dll
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/bin/Debug/net7.0/CalculatorC#.pdb
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.csproj.AssemblyReference.cache
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.AssemblyInfoInputs.cache
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.AssemblyInfo.cs
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.csproj.CoreCompileInputs.cache
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.dll
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/refint/CalculatorC#.dll
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.pdb
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/CalculatorC#.genruntimeconfig.cache
+/Users/oladapoolatubosun/Projects/C#/CalculatorC#/obj/Debug/net7.0/ref/CalculatorC#.dll
